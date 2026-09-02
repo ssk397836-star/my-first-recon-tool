@@ -1,4 +1,3 @@
-
 # 🔍 0xRaj Recon Tool v1.0
 
 My first ethical hacking tool made with Python for educational purpose.
