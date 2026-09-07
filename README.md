@@ -1,21 +1,15 @@
-# 🔍 0xRaj Recon Tool v1.0
 
-My first ethical hacking tool made with Python for educational purpose.
+🔍 0xRaj Recon Tool v2.0 - ULTIMATE
 
-### ✨ Features
-- Find IP address of any website
-- Fast and simple recon
-- Made for beginners
+My first ethical hacking tool made with Python by 0xRaj - From Asansol to World!
 
-### 🚀 How to use
+✨ Features
+• Find IP address of any website
+• Port Scanner - Find open doors of a website
+• Banner Grabbing - Find server technology
+• Fast and simple recon
+• Made for beginners
+
+🚀 How to use
 1. Download recon.py
 2. Run: python recon.py
-3. Enter website like google.com
-
-### 👨‍💻 Author
-**0xRaj** - Future Ethical Hacker from Asansol
-
-### ⚠️ Disclaimer
-Only for educational purpose.
-
-⭐ Give a Star!
